@@ -24,13 +24,13 @@ $ pip install bs4
 $ pip install requests  
 $ pip install mechanize  
 $ pip install futures  
-$ rm -rf premium  
+$ rm -rf mbf_xvip  
 $ git clone https://github.com/r0zhakID/mbf_xvip  
 ```
 ## ⇨  Run Script
 ```
-$ cd premium  
-$ python premium.py  
+$ cd mbf_xvip  
+$ python oke.py  
 ```
 ## ⇨  Information
 ```
